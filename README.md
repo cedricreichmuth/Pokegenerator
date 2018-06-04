@@ -8,8 +8,8 @@ A React app showing you a Pokemon when you click a button. You can also search f
 
 ## Built With
 
-React
-Pokeapi [https://pokeapi.co/]
+* React
+* Pokeapi [https://pokeapi.co/]
 
 ## Screenshots
 
